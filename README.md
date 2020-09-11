@@ -8,7 +8,7 @@
   
 ### Other experiences:
 
-<p align="left> <img src="https://avatars3.githubusercontent.com/u/1278659?s=200&v=4" alt="GNU Radio" width="22" height="22"/> <img src="https://avatars3.githubusercontent.com/u/6938234?s=200&v=4" alt="OpenBTS" width="22" height="22"/>
+<p align="left"> <img src="https://avatars3.githubusercontent.com/u/1278659?s=200&v=4" alt="GNU Radio" width="22" height="22"/> <img src="https://avatars3.githubusercontent.com/u/6938234?s=200&v=4" alt="OpenBTS" width="22" height="22"/>
 
 <!--
 **purwowd/purwowd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
