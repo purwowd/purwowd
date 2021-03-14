@@ -1,6 +1,6 @@
 ### Hi there, I'm Purwo 👋 
 
-Cheers... ☕☕
+Manners maketh man. You know that means! Cheers... ☕☕
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
