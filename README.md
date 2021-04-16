@@ -1,6 +1,6 @@
 ### Hi there, I'm Purwo 👋 
 
-Manners maketh man. You know that means! Cheers... ☕☕
+This ain't that kind of movie, bruv! Cheers... ☕☕
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
