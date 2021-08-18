@@ -1,6 +1,6 @@
 ### Hi there, I'm Purwo 👋 
 
-This ain't that kind of movie, bruv! Cheers... ☕☕
+Stay hungry, stay foolish, and insert a cup of coffee to begin ☕
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
