@@ -1,6 +1,6 @@
 ### Hi there, I'm Purwo 👋 
 
-Stay hungry, stay foolish, and insert a cup of coffee to begin ☕
+Ability to zoom out beyond the boundaries ☕
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
