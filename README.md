@@ -1,8 +1,24 @@
-### Hi there, I'm Purwo 👋 
+### Hi, I'm Purwo Widodo 👋 
 
-Ability to zoom out beyond the boundaries ☕
+I'm a Software Engineer in the [PMG](https://pmg.id/) in the Backend team.
+
+I started December 2020. Before that I was a backend in django and researcher in software-defined radio technologies for 2+ years.
+
+- 🔭 I’m currently working on ...
+
+shhh, it's a secret...
+
+- 🌱 I’m currently learning ...
+
+Everything GitHub - there's a lot to take in!
+
+- I live in 🇮🇩 (bandung) ...
+
+capital of Indonesia’s West Java province, is a large city set amid volcanoes and tea plantations. It's known for colonial, art deco architecture, and relatively cool tropical weather.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
+
+Ability to zoom out beyond the boundaries ☕
 
 <!--
 ### Languages and Tools:
