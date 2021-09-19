@@ -18,7 +18,7 @@ capital of Indonesia’s West Java province, is a large city set amid volcanoes 
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
-Ability to zoom out beyond the boundaries ☕
+<!-- Ability to zoom out beyond the boundaries ☕ -->
 
 <!--
 ### Languages and Tools:
