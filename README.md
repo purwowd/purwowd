@@ -6,7 +6,7 @@ I started December 2020. Before that I was a backend in django and researcher in
 
 - 🔭 I’m currently working on ...
 
-shhh, it's a secret...
+Shhh, it's a secret...
 
 - 🌱 I’m currently learning ...
 
@@ -14,7 +14,7 @@ Everything GitHub - there's a lot to take in!
 
 - I live in 🇮🇩 ...
 
-the greater Bandung area of Indonesia. capital of Indonesia’s West Java province, is a large city set amid volcanoes and tea plantations. It's known for colonial, art deco architecture, and relatively cool tropical weather.
+The greater Bandung area of Indonesia. capital of Indonesia’s West Java province, is a large city set amid volcanoes and tea plantations. It's known for colonial, art deco architecture, and relatively cool tropical weather.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
