@@ -14,7 +14,7 @@ Everything GitHub - there's a lot to take in!
 
 - I live in 🇮🇩 ...
 
-The greater Bandung area of Indonesia. capital of Indonesia’s West Java province, is a large city set amid volcanoes and tea plantations. It's known for colonial, art deco architecture, and relatively cool tropical weather.
+The greater Bandung area of Indonesia. Capital of Indonesia’s West Java province, is a large city set amid volcanoes and tea plantations. It's known for colonial, art deco architecture, and relatively cool tropical weather.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
