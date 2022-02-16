@@ -21,10 +21,9 @@ The greater Bandung area of Indonesia. Capital of Indonesia’s West Java provin
 <!-- Ability to zoom out beyond the boundaries ☕ -->
 
 
-### Languages and Tools:
+### Languages:
 
-<p align="left"> <img src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" alt="python" width="22" height="22"/> <img src="https://avatars3.githubusercontent.com/u/27804?s=200&v=4" alt="django" width="22" height="22"/> <img src="https://avatars0.githubusercontent.com/u/177543?s=200&v=4" alt="postgresql" width="22" height="22"/> <img src="https://avatars3.githubusercontent.com/u/1529926?s=200&v=4" alt="redis" width="22" height="22"/> <img src="https://avatars0.githubusercontent.com/u/5429470?s=200&v=4" alt="docker" width="22" height="22"/> <img src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4" alt="git" width="22" height="22"/> <img src="https://avatars3.githubusercontent.com/u/4604537?s=200&v=4" alt="linux" width="22" height="22"/> <img src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4" alt="mongodb" width="22" height="22"/> <img src="https://avatars2.githubusercontent.com/u/2452804?s=200&v=4" alt="mysql" width="22" height="22"/> <img src="https://simpleicons.org/icons/fastapi.svg" alt="fastapi" width="22" height="22"/> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="22" height="22"/>
-
+<p align="left"> <img src="https://avatars0.githubusercontent.com/u/1525981?s=200&v=4" alt="python" width="22" height="22"/> <img src="https://avatars.githubusercontent.com/u/4314092?s=200&v=4" alt="go-lang" width="22" height="22"/>
 <!--
 ### Other Experiences:
 
