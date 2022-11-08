@@ -1,8 +1,6 @@
 ### Hi, I'm Purwo Widodo 👋 
 
-I'm a Software Engineer in the [PMG](https://pmg.id/) in the Backend team.
-
-I started December 2020. Before that I was a backend in django and researcher in software-defined radio technologies for 2+ years.
+I'm a Software Engineer, especially in the Backend with 3+ years experience. I also researcher in software-defined radio technologies for 2 years.
 
 - 🔭 I’m currently working on ...
 
@@ -14,7 +12,7 @@ Everything GitHub - there's a lot to take in!
 
 - 🌏 I live in ...
 
-The greater Bandung area of Indonesia. Capital of Indonesia’s West Java province, is a large city set amid volcanoes and tea plantations. It's known for colonial, art deco architecture, and relatively cool tropical weather.
+Jakarta, Indonesia.
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=purwowd.purwowd)
 
