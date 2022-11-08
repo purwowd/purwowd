@@ -1,6 +1,6 @@
 ### Hi, I'm Purwo Widodo 👋 
 
-I'm a Software Engineer, especially in the Backend with 3+ years experience. I also researcher in software-defined radio technologies for 2 years.
+I'm a Software Engineer, especially in the Backend with 3 years experience. I also researcher in software-defined radio technologies for 2 years.
 
 - 🔭 I’m currently working on ...
 
